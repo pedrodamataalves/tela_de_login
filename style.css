@@ -82,8 +82,8 @@ body {
 
 .btn-login{
     width: 100%;
-    padding: 16px 0px;
-    margin: 25px;
+    padding: 15px ;
+    margin-top: 25px;
     border: none;
     border-radius: 8px;
     outline: none;
@@ -98,5 +98,5 @@ body {
 
 .card-login-container{
     max-width: 300px;
-    margin: 0 auto;
+    margin:0 auto;
 }
